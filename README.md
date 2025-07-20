@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHEUTik1HHULg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713850948836?e=1744243200&v=beta&t=3p3gHT7Sup7BGMCVqB1sLIYb5t0l3AsUFgs46F0ridU)](https://media.licdn.com/dms/image/v2/D5616AQHEUTik1HHULg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713850948836?e=1744243200&v=beta&t=3p3gHT7Sup7BGMCVqB1sLIYb5t0l3AsUFgs46F0ridU)
 <h1 align="center">Hi 👋, I'm Ahmed Shenawy</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
